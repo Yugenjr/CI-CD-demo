@@ -1,2 +1,2 @@
-guvicorn
+gunicorn
 flask
